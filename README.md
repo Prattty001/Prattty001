@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prattty001" alt="prattty001" /></a> </p>
 
-- 🔭 I’m currently working on [Advanced Threads using Ai](https://github.com/Prattty001/Threadss)
+
 
 - 🌱 I’m currently learning **Go lang and like Mastering Next.js and Typescript**
 

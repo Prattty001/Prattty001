@@ -7,8 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prattty001" alt="prattty001" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Go lang and like Mastering Next.js and Typescript**
+- My LEETCODE  : https://leetcode.com/u/Pratyush_001/
 
 - 👨‍💻 All of my projects are available at [https://prat-ragh-portfolio.netlify.app](https://prat-ragh-portfolio.netlify.app)
 

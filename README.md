@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pratyushraghuvanshi73@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1sQ4bFpOq78QOioq9L5a4uI8ZJ67hN1nM/view](https://drive.google.com/file/d/15Wq3rlYHN4i68CXR10Lq-5XUBSVR2Lxu/view)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1k-AjHGbW3tMwCX4MR5328SPh1-1mw2u9/view](https://drive.google.com/file/d/1k-AjHGbW3tMwCX4MR5328SPh1-1mw2u9/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
